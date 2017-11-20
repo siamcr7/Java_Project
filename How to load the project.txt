@@ -1,0 +1,9 @@
+How to Open:
+Open Netbeans
+Load the project file using the rar file
+when prompt load the jar file
+open xampp
+make sure all are green [apache,MySQL] , or else there might be a port issue. Solve it.
+go to http://127.0.0.1/phpmyadmin/
+see if the hello2.db is there in the left side dashboard. Or else, load it.
+Now run the project. 
